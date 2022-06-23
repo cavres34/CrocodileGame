@@ -12,14 +12,6 @@
       "description": "Her yerde yönetici olarak sayılan kullanıcı kimliklerinin listesi (Müzik hesabınının id'si).",
       "required": true
     },
-        "API_ID": {
-      "description": "my.telegram'dan uygulama kimliği.org/apps",
-      "required": true
-    },
-    "API_HASH": {
-      "description": "My.telegram'dan uygulama apı-hash.org/apps",
-      "required": true
-    },
     "MONGO_URI": {
       "description": "A MongoDB URI.",
       "required": true
