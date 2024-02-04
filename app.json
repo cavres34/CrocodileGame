@@ -5,7 +5,7 @@
   "repository": "https://github.com/PatheticProgrammers/CrocodileGame",
   "env": {
     "BOT_TOKEN": {
-      "description": "",
+      "description": "6776754448:AAHXBbLXucatXWOZ0sxT7Zn8KQf6iGWTBFA",
       "required": true
     },
         "SUDO_USERS": {
