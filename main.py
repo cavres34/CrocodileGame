@@ -17,7 +17,7 @@ updater = Updater(
 dp = updater.dispatcher
 
 
-if __name__ == '__main__':
+    if 
     import os
     import sys
     from threading import Thread
